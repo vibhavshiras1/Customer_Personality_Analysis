@@ -8,3 +8,4 @@ We built two models for clustering - Agglomerative Clustering and K-Means Cluste
 Made use of dendrogram and elbow-plot to find out the optimal number of clusters.
 Plotted a lot of different plots - box plots, joint plots, scatter plots, etc.
 Analysed the clusters to know what kind of customers it actually represents, we were also able to find out how one cluster differs from another.
+In the end, we were able to understand the buying behaviour of customers and what attributes contributed the most to that.
